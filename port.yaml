@@ -1,0 +1,8 @@
+identifier: notifications-service
+title: Notifications Service
+blueprint: service
+properties:
+  language: nodejs
+  tier: tier1
+relations:
+  owner: team-checkout
