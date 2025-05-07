@@ -1,4 +1,4 @@
-identifier: notifications-service
+identifier: notifications-services
 title: Notifications Service
 blueprint: service
 properties:
