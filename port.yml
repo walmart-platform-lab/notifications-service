@@ -4,5 +4,7 @@ blueprint: service
 properties:
   language: nodejs
   tier: tier1
+  readme: .readme
+  freshness: .freshness
 relations:
   owner: team-checkout
