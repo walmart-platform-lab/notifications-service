@@ -3,7 +3,7 @@ title: Notifications Service
 blueprint: service
 properties:
   language: nodejs
-  tier: tier1
+  tier: tier2
   readme: .readme
   freshness: .freshness
 relations:
